@@ -1,13 +1,13 @@
-#Data files
+# Data files
 This folder contains data related to bird traits, including both functional traits and traits related to migration.
 
 
-###Source: Paul DuFour  
+### Source: Paul DuFour  
 SUPMAT_DUFOUR.docx: Text describing cleaning done on migration data and maps.  
 MIGRATION_BIRD_GLOBAL_PD.csv: Data on bird migration characteristics and other functional attributes.  
 
 
-###Source: Nicolas Loiseau
+### Source: Nicolas Loiseau
 
 BirdFuncDat.csv:  the raw database.  
 BirdsID.Rdata: ?  
